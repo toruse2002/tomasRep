@@ -1,0 +1,83 @@
+OS:
+- Windows Server 2019/16
+- Windows Core
+- Ubuntu 20.04
+- RedHat
+- Debian
+
+Virtualization:
+- Vagrant
+- Proxmox + TrueNAS
+- VMware Vsphere+ESXi
+- Docker
+- Virtual Box/VMware
+
+Open Source Software: Security
+-Wazuh(cybersecurity)
+-Iptables(Firewall)
+-Icinga2(Network devices monitorization)
+-GLPI+Inventory(Inventory sys)
+-Proxy squid
+-SecurityOnion(.iso)
+-Certibot, openssl, lets encrypt(ssl Certs)
+-Fail2ban, Sshguard
+-Zeek
+-RockNSM
+-Proxmox Mail gateway+Promox Backup of Proxmox VE
+-WAF ModSecurity
+-MDN mozilla, google web.dev, securityheaders.com (web checks)
+-Misp
+-OpenVAS
+-ClamAV
+
+Server domain solutions:
+-LDAP
+-SAMBA
+-Active Directory
+-DFS
+-CUPS
+-IIS
+
+High Availabity cluster:
+-Haproxy
+-Apache Mesos
+
+Balanced Cluster:
+-KEMP
+-HAproxy
+-Zevenet
+-Neutrino
+-gobetween
+
+High Performance Computing cluster:
+-xCAT
+-openHPC
+
+Parallel Procesing cluster:
+-Apache HadoopYARN
+-Apache Spark
+
+Ofimatic Web server:
+-OpenOffice Group
+-OpenOffice Docs
+
+Web server:
+LAMP+Wordpress+FTP
+
+Disk cabinet software:
+-TrueNas
+-XigmaNas
+-Openmediavault
+
+DDBB:
+-MySQL+phpMyAdmin
+-PostgreSQL+Workbench
+-MariaDB
+
+Automation:
+-Apache NiFi
+-Ansible
+
+Security checks:
+-Kali Linux
+-Parrot OS
