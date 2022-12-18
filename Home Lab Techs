@@ -62,7 +62,7 @@ Ofimatic Web server:
 -OpenOffice Docs
 
 Web server:
-LAMP+Wordpress+FTP
+LAMP+Wordpress+FTP+CDN+DNS
 
 Disk cabinet software:
 -TrueNas
