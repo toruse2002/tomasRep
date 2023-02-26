@@ -81,6 +81,7 @@ Automation:
 Security checks:
 -Kali Linux
 -Parrot OS
+-SecurityOnion
 
 Clone and multiboot:
 -Packer(clone)
@@ -88,4 +89,5 @@ Clone and multiboot:
 -Macrium Reflect(Clone/backups)
 -Hirens Boot(PreInstalation software enviroment)
 -Clonezilla(clone)
+-DRBL
 
