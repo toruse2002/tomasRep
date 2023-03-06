@@ -1,0 +1,19 @@
+apt-get: A command-line tool for managing software packages. It can be used to install, update, and remove packages.
+systemctl: A command-line tool for managing system services. It can be used to start, stop, enable, and disable services.
+top: Displays real-time information about system resource usage, including CPU, memory, and disk usage.
+df: Displays disk space usage for mounted file systems.
+du: Displays disk usage for files and directories.
+uname: Displays system information, including the kernel version and system architecture.
+ip: Displays and configures network interfaces and routing tables.
+ping: Tests connectivity to a network host by sending ICMP packets and measuring response times.
+traceroute: Traces the route that packets take from the local computer to a remote host.
+ps: Displays a list of running processes and their associated information.
+kill: Terminates a running process or a group of processes.
+crontab: Schedules commands or scripts to run at specified times.
+useradd: Creates a new user account.
+passwd: Changes a user's password.
+chown: Changes the owner of a file or directory.
+chroot: 
+chmod: 
+nmap: 
++>>>
